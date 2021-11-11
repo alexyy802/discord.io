@@ -1,4 +1,4 @@
-discord.py
+discord.io
 ==========
 
 .. image:: https://discord.com/api/guilds/336642139381301249/embed.png
@@ -12,11 +12,6 @@ discord.py
    :alt: PyPI supported Python versions
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
-
-The Future of discord.py
---------------------------
-
-Please read the `gist <https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1>`_ for the future of this project. It's been a good one.
 
 Key Features
 -------------
@@ -35,27 +30,27 @@ To install the library without full voice support, you can just run the followin
 .. code:: sh
 
     # Linux/macOS
-    python3 -m pip install -U discord.py
+    python3 -m pip install -U discord.io
 
     # Windows
-    py -3 -m pip install -U discord.py
+    py -3 -m pip install -U discord.io
 
 Otherwise to get voice support you should run the following command:
 
 .. code:: sh
 
     # Linux/macOS
-    python3 -m pip install -U "discord.py[voice]"
+    python3 -m pip install -U "discord.io[voice]"
 
     # Windows
-    py -3 -m pip install -U discord.py[voice]
+    py -3 -m pip install -U discord.io[voice]
 
 
 To install the development version, do the following:
 
 .. code:: sh
 
-    $ git clone https://github.com/Rapptz/discord.py
+    $ git clone https://github.com/VincentRPS/discord.io
     $ cd discord.py
     $ python3 -m pip install -U .[voice]
 
