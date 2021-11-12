@@ -1,14 +1,14 @@
 discord.io
 ==========
 
-.. image:: https://discord.com/api/guilds/336642139381301249/embed.png
-   :target: https://discord.gg/r3sSKJJ
+.. image:: https://discord.com/api/guilds/908591684428918785/embed.png
+   :target: https://discord.gg/8vrHAqWgYR
    :alt: Discord server invite
-.. image:: https://img.shields.io/pypi/v/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py
+.. image:: https://img.shields.io/pypi/v/discord.io.svg
+   :target: https://pypi.python.org/pypi/discord.io
    :alt: PyPI version info
-.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py
+.. image:: https://img.shields.io/pypi/pyversions/discord.io.svg
+   :target: https://pypi.python.org/pypi/discord.io
    :alt: PyPI supported Python versions
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
@@ -108,6 +108,6 @@ You can find more examples in the examples directory.
 Links
 ------
 
-- `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
-- `Official Discord Server <https://discord.gg/r3sSKJJ>`_
+- `Documentation <https://discord.readthedocs.io/en/latest/index.html>`_
+- `Official Discord Server <https://discord.gg/8vrHAqWgYR>`_
 - `Discord API <https://discord.gg/discord-api>`_
