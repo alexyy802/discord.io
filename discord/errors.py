@@ -1,7 +1,7 @@
 """
 The MIT License (MIT)
 
-Copyright (c) 2015-present Rapptz
+Copyright (c) 2021-present VincentRPS
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
@@ -56,7 +56,7 @@ __all__ = (
 
 
 class DiscordException(Exception):
-    """Base exception class for discord.py
+    """Base exception class for discord.io
 
     Ideally speaking, this could be caught to handle any exceptions raised from this library.
     """
