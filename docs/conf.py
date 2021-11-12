@@ -159,7 +159,7 @@ html_experimental_html5_writer = True
 html_theme = 'basic'
 
 html_context = {
-  'discord_invite': 'https://discord.gg/r3sSKJJ',
+  'discord_invite': 'https://discord.gg/8vrHAqWgYR',
   'discord_extensions': [
     ('discord.ext.commands', 'ext/commands'),
     ('discord.ext.tasks', 'ext/tasks'),
@@ -167,7 +167,7 @@ html_context = {
 }
 
 resource_links = {
-  'discord': 'https://discord.gg/r3sSKJJ',
+  'discord': 'https://discord.gg/8vrHAqWgYR',
   'issues': 'https://github.com/VincentRPS/discord.io/issues',
   'discussions': 'https://github.com/VincentRPS/discord.io/discussions',
   'examples': f'https://github.com/VincentRPS/discord.io/tree/{branch}/examples',
