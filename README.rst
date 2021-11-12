@@ -10,6 +10,9 @@ discord.io
 .. image:: https://img.shields.io/pypi/pyversions/discord.io.svg
    :target: https://pypi.python.org/pypi/discord.io
    :alt: PyPI supported Python versions
+.. image:: https://readthedocs.org/projects/discord/badge/?version=master
+   :target: https://discord.readthedocs.io/en/master/?badge=master
+   :alt: Documentation Status  
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
