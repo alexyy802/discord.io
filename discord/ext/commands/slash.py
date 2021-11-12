@@ -1,7 +1,7 @@
 import discord
 import aiohttp
 import inspect
-from discord.ext import commands
+from .. import commands
 import asyncio
 import json
 import typing
