@@ -1,3 +1,6 @@
+.. image:: ./docs/images/discordio.jpg
+    :alt: discord.io
+
 discord.io
 ==========
 
