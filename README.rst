@@ -10,6 +10,9 @@ discord.io
 .. image:: https://img.shields.io/pypi/pyversions/discord.io.svg
    :target: https://pypi.python.org/pypi/discord.io
    :alt: PyPI supported Python versions
+.. image:: https://readthedocs.org/projects/discord/badge/?version=master
+   :target: https://discord.readthedocs.io/en/master/?badge=master
+   :alt: Documentation Status  
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
@@ -51,7 +54,7 @@ To install the development version, do the following:
 .. code:: sh
 
     $ git clone https://github.com/VincentRPS/discord.io
-    $ cd discord.py
+    $ cd discord.io
     $ python3 -m pip install -U .[voice]
 
 
@@ -63,7 +66,7 @@ Optional Packages
 Please note that on Linux installing voice you must install the following packages via your favourite package manager (e.g. ``apt``, ``dnf``, etc) before running the above commands:
 
 * libffi-dev (or ``libffi-devel`` on some systems)
-* python-dev (e.g. ``python3.6-dev`` for Python 3.6)
+* python-dev (e.g. ``python3.8-dev`` for Python 3.8)
 
 Quick Example
 --------------
